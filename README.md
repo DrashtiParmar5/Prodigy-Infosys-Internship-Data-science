@@ -1,10 +1,10 @@
 # 📊 Population Analysis — Task 1 (Internship Project)
 
-![Task 1 Description](./52372303-42be-46ed-b95d-8c8f7b11cda6.png)
+## 📝 Task -1 Description
 
+**Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.**
 
-This project is part of my ongoing internship where I was assigned the task of analyzing global population data. The objective of **Task 1** was to extract meaningful insights related to total, male, and female populations across countries for the year 2022 and visualize key patterns using Python.
-
+This project is part of my ongoing internship where I was assigned the task of analyzing global population data. 
 ---
 
 ## 🗂️ Dataset Information
